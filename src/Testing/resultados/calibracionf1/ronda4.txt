@@ -1,0 +1,61 @@
+=== Evaluando 52 URLs maliciosas ===
+[MALICIOSA] https://khabarovsk.pb3.duckdns.org/ → score: 0 → no detectado
+[MALICIOSA] https://domain.pb3.duckdns.org/ → score: 0 → no detectado
+[MALICIOSA] https://35g.cc3.mytemp.website/api/ → score: 0 → no detectado
+[MALICIOSA] https://kuvcoinnloginz.webflow.io/ → score: 15 → no detectado
+[MALICIOSA] https://fr8610.craftum.io/ → score: 0 → no detectado
+[MALICIOSA] https://ingeko-energies.fr/wp-content/plugins/ojypkws/online.html → score: 0 → no detectado
+[MALICIOSA] https://acessoaoportal.pt/atend.php → score: 0 → no detectado
+[MALICIOSA] https://x4z8qv.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://b3n8mf.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://r6m2zk.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://allegrolokalnie.pl-77655.top/oferta/pellet-drzewny-fabich-a1-100-z-drewna-sosnowego-2-tony-9gos1 → score: 90 → SOSPECHOSO
+[MALICIOSA] https://w5q9lv.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://h8k5yr.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] http://allegrolokalnie.518128512.mom/oferta/rower-woom-2-zielony/63583 → score: 100 → SOSPECHOSO
+[MALICIOSA] https://allegrolokalnie.pl-77655.top → score: 75 → SOSPECHOSO
+[MALICIOSA] http://allegrolokalnie.lokalna-849641.sbs → score: 100 → SOSPECHOSO
+[MALICIOSA] https://b1n6mp.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://q3t7wc.lat/o/59nly/7320827387469824#selectedbank9 → score: 20 → no detectado
+[MALICIOSA] https://globa97.eu.cc/index/user/register → score: 0 → no detectado
+[MALICIOSA] https://utilisateur-prim.com/ → score: 20 → no detectado
+[MALICIOSA] https://utilisateur-prim.com/index.php → score: 20 → no detectado
+[MALICIOSA] https://lyncdiscover.pb3.duckdns.org/ → score: 0 → no detectado
+[MALICIOSA] https://it.pb3.duckdns.org/ → score: 0 → no detectado
+[MALICIOSA] https://orange.espaceparticulier.com/index.php → score: 20 → no detectado
+[MALICIOSA] https://orange.espaceparticulier.com → score: 20 → no detectado
+[MALICIOSA] https://mmcglobal.passkeyconnect.com/sign-in/ → score: 20 → no detectado
+[MALICIOSA] http://mmcglobal.passkeyconnect.com → score: 35 → no detectado
+[MALICIOSA] https://altro-dz.com/kdi/sdfi → score: 20 → no detectado
+[MALICIOSA] https://biodiversidadhuaranchalina.com/story/tifhteuuds → score: 0 → no detectado
+[MALICIOSA] https://login.gcrtn.com/?JOlqDVnk8sXfZ9U9B005AV62 → score: 15 → no detectado
+[MALICIOSA] https://www.gsgkm.com/?fbaAbj6cFnZBsfsNzioYsbjh → score: 0 → no detectado
+[MALICIOSA] https://www.lqmkj.com/login → score: 15 → no detectado
+[MALICIOSA] https://login.gzqdmz.com/?lfjRlu4C5MLJE31KF5H4uiXV → score: 15 → no detectado
+[MALICIOSA] https://bgabrasivi.com/dag/wogd → score: 20 → no detectado
+[MALICIOSA] https://jiefengd.com/u_wf9zxRhm/verify?ticket=tHrhIyMM → score: 15 → no detectado
+[MALICIOSA] https://slanketips-online.com/?mode=gate&amp;entry=sanjinga → score: 0 → no detectado
+[MALICIOSA] http://allegro.00421.study → score: 65 → SOSPECHOSO
+[MALICIOSA] https://prime-assistance.com/ → score: 20 → no detectado
+[MALICIOSA] https://www.prime-assistance.com/ → score: 20 → no detectado
+[MALICIOSA] https://globusmedical.passkeyconnect.com/sign-in/ → score: 30 → no detectado
+[MALICIOSA] http://globusmedical.passkeyconnect.com → score: 45 → no detectado
+[MALICIOSA] https://site-lwng6uz5a.godaddysites.com/ → score: 65 → SOSPECHOSO
+[MALICIOSA] https://crreddem.blogspot.com/ → score: 20 → no detectado
+[MALICIOSA] https://crreddem.blogspot.com/?m=1 → score: 20 → no detectado
+[MALICIOSA] https://bnlbnpb.blogspot.com/ → score: 20 → no detectado
+[MALICIOSA] http://allegro.0000vv.study → score: 65 → SOSPECHOSO
+[MALICIOSA] https://credemcliente.blogspot.com/ → score: 20 → no detectado
+[MALICIOSA] https://credemcliente.blogspot.com/?m=1 → score: 20 → no detectado
+[MALICIOSA] http://patrimonioememoriacolectiva.pt/zotac/ → score: 15 → no detectado
+[MALICIOSA] https://login-drivez.com/ → score: 15 → no detectado
+[MALICIOSA] https://login-drivez.com/pages/r.php → score: 15 → no detectado
+[MALICIOSA] http://allegrolokalnie.pl-oferta71916481442.lol → score: 100 → SOSPECHOSO
+
+=== Evaluando 0 URLs limpias ===
+
+=== RESULTADOS ===
+Precisión heurística: 15.4% (objetivo: ≥75%)
+Tasa de falsos positivos: NaN% (objetivo: ≤10%)
+Maliciosas detectadas: 8/52
+Limpias mal clasificadas: 0/0

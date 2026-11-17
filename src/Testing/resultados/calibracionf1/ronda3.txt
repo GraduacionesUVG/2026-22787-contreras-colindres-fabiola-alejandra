@@ -1,0 +1,70 @@
+=== Evaluando 59 URLs maliciosas ===
+[MALICIOSA] https://test.webclient4.de/ → score: 0 → no detectado
+[MALICIOSA] https://nizotchauffage.bilty.be/clients/login → score: 15 → no detectado
+[MALICIOSA] https://638ca12d-ba2f-451c-8418-faf56b7de7ff.htmlcomponentservice.com/get_draft?id=638ca1_14694f4a84161543466426a12288de1a.html → score: 20 → no detectado
+[MALICIOSA] http://baradua.it/wp/wp-content/plugins/MADE/files/top.html → score: 15 → no detectado
+[MALICIOSA] https://drive.google.com/file/d/1robIOsANBh8Doqa7YUIeWn3Akz4094ho/edit → score: 0 → no detectado
+[MALICIOSA] https://drive.google.com/file/d/1GINBNlpVt7kpfNog9A68fqmn7k3aivUi → score: 0 → no detectado
+[MALICIOSA] http://sp477389.sitebeat.site/ → score: 15 → no detectado
+[MALICIOSA] http://kuchkuchnights.com/blog?sec=laurinefeiler → score: 15 → no detectado
+[MALICIOSA] http://kuchkuchnights.com/2222?sec=franziskaoppermann → score: 15 → no detectado
+[MALICIOSA] http://www.hollykim.com/bbs_/f9ebaa/hvsjhhvs33/ → score: 15 → no detectado
+[MALICIOSA] http://9d62cfee-59b3-42a8-9542-4b3a32692792.htmlcomponentservice.com/get_draft?id=9d62cf_b629798a3637a0ea5eb0bf9dd9f6992d.html → score: 35 → no detectado
+[MALICIOSA] http://hollykim.com/bbs_/f9ebaa/hvsjhhvs33/ → score: 15 → no detectado
+[MALICIOSA] http://hollykim.com/bbs_/f9ebaa/hvsjhhvs33 → score: 15 → no detectado
+[MALICIOSA] http://kuchkuchnights.com/2222/?sec=FranziskaOppermann → score: 15 → no detectado
+[MALICIOSA] https://ersfilter-my.sharepoint.com/:x:/r/personal/nradonich_ersfilter_com/_layouts/15/WopiFrame.aspx?guestaccesstoken=t6T%2fHN1dKbYHlYX%2beIMbaZufA43rrGZ6%2faAAewNocDI%3d&docid=1_18168db23429e45f29fdf2e7be120efc4&wdFormId=%7BB9970F62%2D44C3%2D4D09%2D9929%2D6E1EB652DA57%7D&action=formsubmit → score: 0 → no detectado
+[MALICIOSA] https://storage.cloud.google.com/user517497679326978.appspot.com/index.html → score: 0 → no detectado
+[MALICIOSA] https://livenmitac-my.sharepoint.com/personal/hannah-daly_live_nmit_ac_nz/_layouts/15/WopiFrame.aspx?guestaccesstoken=IA5UzzOn3iViKU4F3pXemYHHABfWkPDjiRPFTFEaR/k=&amp;docid=1_169208e425ed84fea9fd294a6886d67e9&amp;wdFormId={06255F86-4BF9-4EE8-BD7E-FEF81913A79B}&amp;action=formsubmit → score: 0 → no detectado
+[MALICIOSA] https://app.box.com/s/ymr0ltw3hmn8icxebz16gjhcyhqa49w4 → score: 0 → no detectado
+[MALICIOSA] https://livenmitac-my.sharepoint.com/personal/hannah-daly_live_nmit_ac_nz/_layouts/15/WopiFrame.aspx?guestaccesstoken=IA5UzzOn3iViKU4F3pXemYHHABfWkPDjiRPFTFEaR%2fk%3d&docid=1_169208e425ed84fea9fd294a6886d67e9&wdFormId=%7B06255F86%2D4BF9%2D4EE8%2DBD7E%2DFEF81913A79B%7D&action=formsubmit → score: 0 → no detectado
+[MALICIOSA] https://superpark-my.sharepoint.com/:x:/r/personal/adrian_ramos_superpark_com_hk/_layouts/15/WopiFrame.aspx?guestaccesstoken=voFjngnui%2fsLbamEOrLq62QlG8McDnpo1DIZU6I%2bc1M%3d&amp;docid=1_124bbb2f682ca4c7daba6cec6ee34dfb9&amp;wdFormId=%7BA85C8ABE%2D68BE%2D43DD%2D91F3%2DB397386186BE%7D&amp;action=formsubmit → score: 0 → no detectado
+[MALICIOSA] https://rediractionid547012016089540218057.blogspot.com/ → score: 10 → no detectado
+[MALICIOSA] http://encryptdrive.booogle.net/?state={ids:[1zsW2sDoRx1jgl1y1_XDtGIxXpkoMS27F] → score: 15 → no detectado
+[MALICIOSA] https://app.box.com/s/x6agocx9zvj049azirk4aw3xrqdedqhl → score: 0 → no detectado
+[MALICIOSA] https://wireconfirmation68c10a25442a3e13.blogspot.com/ → score: 25 → no detectado
+[MALICIOSA] http://amidabuli.com/ → score: 15 → no detectado
+[MALICIOSA] http://hutoknepper.de/ → score: 15 → no detectado
+[MALICIOSA] http://clients.devtux.com/updates/payment/mweb.html → score: 30 → no detectado
+[MALICIOSA] https://3rdstreetmarket.com/wp-content/themes/3rdst/8-login-form/ → score: 15 → no detectado
+[MALICIOSA] https://www.freeliker.net/ → score: 0 → no detectado
+[MALICIOSA] https://www.officialliker.co/ → score: 0 → no detectado
+[MALICIOSA] https://souaxwaoh.myfreesites.net/ → score: 0 → no detectado
+[MALICIOSA] https://smsorangesmsmessage.myfreesites.net/ → score: 10 → no detectado
+[MALICIOSA] https://orangeservice.godaddysites.com/ → score: 0 → no detectado
+[MALICIOSA] https://votreligne.godaddysites.com/ → score: 0 → no detectado
+[MALICIOSA] https://serviceorange7.godaddysites.com/ → score: 10 → no detectado
+[MALICIOSA] http://www.formbuddy.com/cgi-bin/formdisp.pl?u=adminnet&amp;f=mailcenter → score: 15 → no detectado
+[MALICIOSA] http://www.formbuddy.com/cgi-bin/formdisp.pl?u=adminnet&f=mailcenter → score: 15 → no detectado
+[MALICIOSA] http://souaxwaoh.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] https://alareentading-catalog.page.tl/ → score: 0 → no detectado
+[MALICIOSA] http://vtxmail2018.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://smsenligne.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://vxdse.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://templat65sldh.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://www.imxprs.com/free/webmaiil/accounttportal → score: 30 → no detectado
+[MALICIOSA] http://unam.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://starttsboxfile.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://algotextil.com.br/ → score: 15 → no detectado
+[MALICIOSA] http://creativeingredient.com/wp-includes/images/verify/update/y.html → score: 30 → no detectado
+[MALICIOSA] http://creditiperhabbogratissicuro100.blogspot.it/2011/02/habbo-crediti-gratis-sicuro-100.html → score: 25 → no detectado
+[MALICIOSA] http://sertyxese.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://clubeamigosdopedrosegundo.com.br/last/ → score: 25 → no detectado
+[MALICIOSA] http://clubeamigosdopedrosegundo.com.br/list/ → score: 25 → no detectado
+[MALICIOSA] http://clubeamigosdopedrosegundo.com.br/list/index.php?email=abuse@brain.net.pk → score: 25 → no detectado
+[MALICIOSA] http://alareentading-catalog.page.tl/ → score: 15 → no detectado
+[MALICIOSA] http://webmailadmin0.myfreesites.net/ → score: 15 → no detectado
+[MALICIOSA] http://www.formbuddy.com/cgi-bin/formdisp.pl?u=Twice&amp;f=LLM → score: 15 → no detectado
+[MALICIOSA] http://www.formbuddy.com/cgi-bin/formdisp.pl?u=security=M&amp;f=verification → score: 15 → no detectado
+[MALICIOSA] http://www.habbocreditosparati.blogspot.com/ → score: 25 → no detectado
+[MALICIOSA] http://creditiperhabbogratissicuro100.blogspot.com/2011/02/habbo-crediti-gratis-sicuro-100.html → score: 25 → no detectado
+
+=== Evaluando 2 URLs limpias ===
+[LIMPIA] https://google.com → score: 0 → no detectado
+[LIMPIA] https://cloudflare.com → score: 0 → no detectado
+
+=== RESULTADOS ===
+Precisión heurística: 0.0% (objetivo: ≥75%)
+Tasa de falsos positivos: 0.0% (objetivo: ≤10%)
+Maliciosas detectadas: 0/59
+Limpias mal clasificadas: 0/2

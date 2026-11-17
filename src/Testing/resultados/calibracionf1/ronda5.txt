@@ -1,0 +1,127 @@
+=== Evaluando 59 URLs maliciosas ===
+[MALICIOSA] https://docs.google.com/presentation/d/e/2PACX-1vRoNDC7_4RiTj9kCy65R80Jo11i4fOv7d7liyfJtLyudKqUViIH3Vl8bTK63FF0cXZ2B2-ArS-RIJYQ/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p → score: 0 → no detectado
+[MALICIOSA] https://cooperative-ways-450863.framer.app/ → score: 10 → no detectado
+[MALICIOSA] https://bac-igifts.com → score: 15 → no detectado
+[MALICIOSA] https://login.8259sf.com → score: 40 → no detectado
+[MALICIOSA] https://qrco.de/bggiD9 → score: 0 → no detectado
+[MALICIOSA] http://isn1-scotiabank.azurewebsites.net → score: 25 → no detectado
+[MALICIOSA] https://xfinityupdatee.weebly.com/ → score: 35 → no detectado
+[MALICIOSA] https://docs.google.com/presentation/d/e/2PACX-1vSTiFkLadfjomYspA90_yByg2TVu6QW2gNpYzVcAPPYHmmw-7rku8ORMYcT3Q0XtLYNwbinMe8Zif-z/pub → score: 0 → no detectado
+[MALICIOSA] https://sites.google.com/view/zxacw/home → score: 0 → no detectado
+[MALICIOSA] https://mail.credit-metuell.s-host.net/ → score: 0 → no detectado
+[MALICIOSA] https://q-r.to/bgbqHO → score: 0 → no detectado
+[MALICIOSA] https://u4745398.ct.sendgrid.net/ls/click?upn=u001.lhCds-2BqXEE2yq8JeIEEvNxZBhp-2F9cvbgLJPflGHrE3cugbeImAo3FwCKb-2Bio3vZ8wJQD_D6frW-2FII732bcXe7xvHOTCrhAllUB4ByZUtC795oNV5Cv21zoN9L9yoY9hUXpYJ5kGhKqsfFi4pTxLxEJnF3a0mf0if-2BbadmqGvcsxAs7mkY-2BO3-2BFTqFVa9TI6h-2F5j-2FSukipRLyacQxV64LmuPgGj7DVX1-2FFbwzeEElPt3pePL7Rtk0T1VQbTn-2FjtpjY9GTTjO-2Fc1E5c7xNQp4kyGx9L8g-3D-3D → score: 0 → no detectado
+[MALICIOSA] https://new.express.adobe.com/webpage/w26YbODZV7cf3 → score: 0 → no detectado
+[MALICIOSA] https://mrelay-planifications.com/captcha → score: 20 → no detectado
+[MALICIOSA] https://cas-internet-user.framer.website/ → score: 10 → no detectado
+[MALICIOSA] https://pub-329ad475a78e41a580bcf032bab5c255.r2.dev/index.html → score: 10 → no detectado
+[MALICIOSA] https://l.ead.me/bgaok1 → score: 0 → no detectado
+[MALICIOSA] https://webbmailacparisfr.weebly.com/ → score: 20 → no detectado
+[MALICIOSA] https://startsuit-enapp.wixstudio.com/suite → score: 0 → no detectado
+[MALICIOSA] https://www.pcn-notictb.shop/com/ → score: 25 → no detectado
+[MALICIOSA] https://eng-ldgercdn.wixstudio.com/eng-us → score: 0 → no detectado
+[MALICIOSA] https://btintternnettsadl2026.weebly.com/ → score: 30 → no detectado
+[MALICIOSA] https://optimize-bridge.wixstudio.com/enus → score: 0 → no detectado
+[MALICIOSA] https://qrco.de/bfJZ2m → score: 0 → no detectado
+[MALICIOSA] https://malienterprises.com/exe/app/ → score: 0 → no detectado
+[MALICIOSA] http://vsw1e-m7z-vwrjy4-8vy-9unfd1.pages.dev/ → score: 90 → SOSPECHOSO
+[MALICIOSA] https://kjhkjh-o4ul.vercel.app/hgcfgvgh.html → score: 55 → no detectado
+[MALICIOSA] http://zuza.stefek.szczecin.pl/Webmail/65/Webmail/webmail.php → score: 15 → no detectado
+[MALICIOSA] https://docs.google.com/presentation/d/e/2PACX-1vR1-KH4Pcq-OPtSJTUf9WMUwfQhWfmk2gHuImpZ5RCzuD8B-7esQmdG4ATxkC8L6eYb8i6H053c8sNz/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p → score: 0 → no detectado
+[MALICIOSA] https://www.dpdlocaxc.cyou/com → score: 25 → no detectado
+[MALICIOSA] https://suivi5687s.serv4571563.pro/ → score: 20 → no detectado
+[MALICIOSA] https://hm.ru/YXLCSh → score: 0 → no detectado
+[MALICIOSA] https://l.ead.me/bgbyBO → score: 0 → no detectado
+[MALICIOSA] https://bafkreif2noq64epia5cmqq5rk5zdzr3466ylkr5xez2r56p27os2vihedi.ipfs.dweb.link/ → score: 10 → no detectado
+[MALICIOSA] https://validez-online.webcindario.com/ → score: 0 → no detectado
+[MALICIOSA] https://tinyurl.com/mvwwz4da → score: 0 → no detectado
+[MALICIOSA] https://o-ne-o-n-l-i-n-e26-one-adm.lechante.co.za/ → score: 20 → no detectado
+[MALICIOSA] https://qrco.de/bfJ1Mc → score: 0 → no detectado
+[MALICIOSA] https://mypioneersecure.weebly.com/ → score: 35 → no detectado
+[MALICIOSA] https://docs.google.com/presentation/d/e/2PACX-1vTMaVeaKa_yTmWYw9tDmGq6Nl5cZwqzc4oKamaqF0BV54UrGI40hVoQdKVviaMh_IVfsKmFeErJeiCh/pub?start=false&amp;loop=false&amp;delayms=3000 → score: 0 → no detectado
+[MALICIOSA] http://cpisafety.che.buet.ac.bd/cgi-bn/main/PO-()---4799231.html → score: 15 → no detectado
+[MALICIOSA] https://ungu.in/erthserthsert5hyaerfhgs → score: 0 → no detectado
+[MALICIOSA] https://cartaocontintve.cfd/pts → score: 25 → no detectado
+[MALICIOSA] https://l.wl.co/l?u=https://dik.si/x3SD_et5e5rthyae3rh → score: 0 → no detectado
+[MALICIOSA] https://lives-ledagr.wixstudio.com:443/en-us → score: 0 → no detectado
+[MALICIOSA] http://facturealo156.top → score: 40 → no detectado
+[MALICIOSA] https://qrco.de/bfc1Yc → score: 0 → no detectado
+[MALICIOSA] https://fahoi-trilo.duckdns.org/ajuhtope/ → score: 55 → no detectado
+[MALICIOSA] https://redtail-d.firebaseapp.com/ → score: 55 → no detectado
+[MALICIOSA] https://q-r.to/bfNp10 → score: 0 → no detectado
+[MALICIOSA] https://accueil-notairedebelgiquefednot.weebly.com/ → score: 65 → SOSPECHOSO
+[MALICIOSA] https://away.vk.com/away.php?rh=bf32dc63-b54f-42e4-b6c3-c6d5761519cd → score: 0 → no detectado
+[MALICIOSA] https://qrco.de/bfITRb → score: 0 → no detectado
+[MALICIOSA] https://www.updatenetfx.fr/captcha.php → score: 15 → no detectado
+[MALICIOSA] https://new.express.adobe.com/webpage/3nzAuyXe247i5 → score: 0 → no detectado
+[MALICIOSA] https://gev-khqx.wasmer.app/ → score: 0 → no detectado
+[MALICIOSA] https://home-trezro-apps.wixstudio.com/us-en → score: 0 → no detectado
+[MALICIOSA] https://ie6081.craftum.io/page2#redacted@abuse.ionos.com → score: 0 → no detectado
+[MALICIOSA] https://docs.google.com/presentation/d/e/2PACX-1vQ2e_Z9nY9-RUhdU49Y8RPn0P2MW7KBhIBI4SkhfLaUX8yuDac23ykhhdu7yNsaUJOzTcqbv8ZEVvBV/pub?start=true&amp;loop=true&amp;delayms=1000 → score: 0 → no detectado
+
+=== Evaluando 59 URLs limpias ===
+[LIMPIA] https://google.com → score: 0 → no detectado
+[LIMPIA] https://cloudflare.com → score: 0 → no detectado
+[LIMPIA] https://gstatic.com → score: 0 → no detectado
+[LIMPIA] https://facebook.com → score: 0 → no detectado
+[LIMPIA] https://microsoft.com → score: 0 → no detectado
+[LIMPIA] https://googleapis.com → score: 0 → no detectado
+[LIMPIA] https://gtld-servers.net → score: 0 → no detectado
+[LIMPIA] https://amazonaws.com → score: 0 → no detectado
+[LIMPIA] https://youtube.com → score: 0 → no detectado
+[LIMPIA] https://apple.com → score: 0 → no detectado
+[LIMPIA] https://instagram.com → score: 0 → no detectado
+[LIMPIA] https://akamai.net → score: 0 → no detectado
+[LIMPIA] https://mail.ru → score: 0 → no detectado
+[LIMPIA] https://ezviz7.com → score: 0 → no detectado
+[LIMPIA] https://fbcdn.net → score: 0 → no detectado
+[LIMPIA] https://twitter.com → score: 0 → no detectado
+[LIMPIA] https://dzen.ru → score: 0 → no detectado
+[LIMPIA] https://linkedin.com → score: 0 → no detectado
+[LIMPIA] https://domaincontrol.com → score: 0 → no detectado
+[LIMPIA] https://googlevideo.com → score: 0 → no detectado
+[LIMPIA] https://office.com → score: 0 → no detectado
+[LIMPIA] https://hicloudcam.com → score: 0 → no detectado
+[LIMPIA] https://googletagmanager.com → score: 0 → no detectado
+[LIMPIA] https://live.com → score: 0 → no detectado
+[LIMPIA] https://akamaiedge.net → score: 0 → no detectado
+[LIMPIA] https://amazon.com → score: 0 → no detectado
+[LIMPIA] https://akadns.net → score: 0 → no detectado
+[LIMPIA] https://azure.com → score: 0 → no detectado
+[LIMPIA] https://bing.com → score: 0 → no detectado
+[LIMPIA] https://github.com → score: 0 → no detectado
+[LIMPIA] https://wikipedia.org → score: 0 → no detectado
+[LIMPIA] https://whatsapp.net → score: 0 → no detectado
+[LIMPIA] https://fastly.net → score: 0 → no detectado
+[LIMPIA] https://apple-dns.net → score: 0 → no detectado
+[LIMPIA] https://googleusercontent.com → score: 0 → no detectado
+[LIMPIA] https://appsflyersdk.com → score: 0 → no detectado
+[LIMPIA] https://doubleclick.net → score: 0 → no detectado
+[LIMPIA] https://aaplimg.com → score: 0 → no detectado
+[LIMPIA] https://microsoftonline.com → score: 0 → no detectado
+[LIMPIA] https://netflix.com → score: 0 → no detectado
+[LIMPIA] https://office.net → score: 0 → no detectado
+[LIMPIA] https://trafficmanager.net → score: 0 → no detectado
+[LIMPIA] https://sharepoint.com → score: 0 → no detectado
+[LIMPIA] https://gandi.net → score: 0 → no detectado
+[LIMPIA] https://digicert.com → score: 0 → no detectado
+[LIMPIA] https://wordpress.org → score: 0 → no detectado
+[LIMPIA] https://youtu.be → score: 0 → no detectado
+[LIMPIA] https://skype.com → score: 0 → no detectado
+[LIMPIA] https://cloud.microsoft → score: 30 → no detectado
+[LIMPIA] https://goo.gl → score: 0 → no detectado
+[LIMPIA] https://cloudfront.net → score: 0 → no detectado
+[LIMPIA] https://googledomains.com → score: 0 → no detectado
+[LIMPIA] https://x.com → score: 0 → no detectado
+[LIMPIA] https://tiktok.com → score: 0 → no detectado
+[LIMPIA] https://pinterest.com → score: 0 → no detectado
+[LIMPIA] https://whatsapp.com → score: 0 → no detectado
+[LIMPIA] https://icloud.com → score: 0 → no detectado
+[LIMPIA] https://yahoo.com → score: 0 → no detectado
+[LIMPIA] https://roblox.com → score: 0 → no detectado
+
+=== RESULTADOS ===
+Precisión heurística: 3.4% (objetivo: ≥75%)
+Tasa de falsos positivos: 0.0% (objetivo: ≤10%)
+Maliciosas detectadas: 2/59
+Limpias mal clasificadas: 0/59

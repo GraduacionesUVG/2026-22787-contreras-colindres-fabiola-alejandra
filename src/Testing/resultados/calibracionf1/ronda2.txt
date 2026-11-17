@@ -1,0 +1,43 @@
+Misma muestra de la ronda 1, muestras fallidas:
+[MALICIOSA] https://claim-x7k.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-x7k.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] http://claim-0az.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-0az.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] https://claim-gpq.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-gpq.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] http://allegrolokalne.pl-489689124.lol → score: 100 → SOSPECHOSO
+[MALICIOSA] http://allegrolokalnie.pl-746373638.click → score: 100 → SOSPECHOSO
+[MALICIOSA] http://allegrolokainie.pl-489689124.lol → score: 100 → SOSPECHOSO
+[MALICIOSA] http://claim-s1d.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-s1d.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-uzx.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-uzx.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-v10.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-v10.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-gli.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-gli.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-3jb.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-3jb.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-fak.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-fak.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://newweeklyscorevoting-ui.netlify.app/ → score: 45 → no detectado
+[MALICIOSA] https://newweeklyscorevoting-ui.netlify.app/ → score: 30 → no detectado
+[MALICIOSA] http://claim-tko.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-tko.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-khw.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-khw.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-dmu.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-dmu.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-ojo.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-ojo.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] https://newcheckeligibilitypage-ux.netlify.app/ → score: 30 → no detectado
+[MALICIOSA] http://newcheckeligibilitypage-ux.netlify.app/ → score: 45 → no detectado
+[MALICIOSA] http://claim-ihu.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-ihu.netlify.app/ → score: 35 → no detectado
+[MALICIOSA] http://claim-fn2.netlify.app/ → score: 50 → no detectado
+[MALICIOSA] https://claim-fn2.netlify.app/ → score: 35 → no detectado
+
+Precisión heurística: 40.7% (objetivo: ≥75%)
+Tasa de falsos positivos: 0.0% (objetivo: ≤10%)
+Maliciosas detectadas: 24/59
+Limpias mal clasificadas: 0/59
